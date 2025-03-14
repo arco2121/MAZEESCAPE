@@ -1,3 +1,3 @@
 # MAZE ESCAPE
 
-## Scappa dal labirinto entro il tempo DATo
+Scappa dal labirinto entro il tempo dato
